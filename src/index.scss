@@ -1,0 +1,17 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: rgb(42, 45, 54);
+  --font-weight-light: 100;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  max-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}

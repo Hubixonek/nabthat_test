@@ -1,0 +1,22 @@
+NIE UDAŁO SIĘ:
+
+-RWD nie jest w pełni wykonane, od 538 px nie odwzorowałem dokładnej pozycji elementów tak jak było na zdjęciu poglądowym
+
+------------------------------
+
+UDAŁO SIĘ Z DODATKOWYCH RZECZY:
+
+-Osadzenie całego zadania w jakimś JSowym frameworku (najlepiej Angular) : wykonałem w React.js
+-Brak plików graficznych w końcowym projekcie (brak plików typu jpg, gif, png, svg).
+-Zastosowanie BEM.
+-Logiczne wykorzystanie jednostek rem, em, vh, vw (w efekcie jak najmniejsze użycie jednostki px) - w taki sposób by w efekcie responsywność spełniona została jak najmniejszą ilością kodu.
+-Przy doklejaniu treści w przypadku niemożliwości spełnienia warunku by była unikalna wyświetlić stosowny komunikat (np. alert/dialog/modal).
+-Button w footerze ("pokaż") wysuwający ramkę bez użycia JSa.
+
+
+
+OD SIEBIE:
+
+Od siebie zastosowałem wzorzec projektowy dla aplikacji w React.js, który polega na dzieleniu komponentów na kontenerowe i prezentacyjne.
+Pomaga on w organizacji kodu i według mnie bardzo ułatwia czytelność, niestety nie starczyło mi czasu by to dokończyć jak należy 
+przy zachowaniu działania funkcjonalności.
